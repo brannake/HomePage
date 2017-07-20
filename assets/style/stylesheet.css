@@ -1,0 +1,115 @@
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	color: white;
+	padding: 100px;
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	margin: 0px;
+}
+
+h2 {
+	color: white;
+	padding-top: 0px;
+	padding-left: 100px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	margin: 0px;
+
+}
+
+div {
+	color: white;
+	font-family: Arial;
+}
+
+img{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: auto;
+}
+
+#banner-container {
+	position: relative;
+	top: -10px;
+	left: -10px;
+	height: 400px;
+	width: auto;
+	background: blue;
+}
+
+#nav-bar {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 250px;
+	height: 40px;
+}
+
+#about {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 40px;
+	width: 70px;
+}
+
+#about-text {
+	position: absolute;
+	top: 10px;
+	left: 0px;
+	height: 100%;
+	width: 60px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#projects {
+	position: absolute;
+	top: 0px;
+	left: 60px;
+	height: 40px;
+	width: 60px;
+}
+
+#projects-text {
+	position: absolute;
+	top: 10px;
+	left: 70px;
+	height: 40px;
+	width: 60px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#projects-border{
+	position: absolute;
+	height: 50%;
+	top: 10px;
+	left: 56px;
+	border-left: 2px solid white;
+	border-bottom: 2px solid white;
+}
+
+#contact-text {
+	position: absolute;
+	top: 10px;
+	left: 155px;
+	height: 40px;
+	width: 60px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#contact-border {
+	position: absolute;
+	height: 50%;
+	top: 10px;
+	left: 141px;
+	border-left: 2px solid white;
+}
